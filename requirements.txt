@@ -1,0 +1,5 @@
+Django==5.0.2
+openai==1.23.2
+pdfplumber==0.10.4
+pypdf==4.2.0
+python-dotenv==1.0.1
