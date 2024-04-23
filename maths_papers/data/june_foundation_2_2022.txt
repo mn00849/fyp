@@ -1,0 +1,265 @@
+Foundation Level Paper
+Questions: 
+Question 0:  2 Answer ALL questions. Write your answers in the spaces provided. You must write down all the stages in your working. 1 Write 1476 to the nearest 10 ...................................................... (Total for Question 1 is 1 mark) 2 Write a fraction in the box to make the calculation correct. 	 	 1	â	3 10 = ............... (Total for Question 2 is 1 mark) 3 Here is a list of numbers. 3 3 3 3 4 4 5 7 8 Write down the mode of the numbers. ...................................................... (Total for Question 3 is 1 mark) 4 Write down a 3 digit number that is a multiple of 5 ...................................................... (Total for Question 4 is 1 mark) 5 Write 0.4 as a percentage. ...................................................... % (Total for Question 5 is 1 mark)
+Question 7:  3 6 Write the following numbers in order of size. Start with the smallest number . â11 â2 8 â7 3 10 .......................................................................................................................... (Total for Question 6 is 1 mark) 7 Here is polygon ABCDEF on a square grid. A FB EC D (a) Write down the mathematical name of the polygon. ............................................................................................... (1) (b) Which side of the polygon is parallel to the side CD? ...................................................... (1) (c) Write down a side of the polygon that is perpendicular to the side AF. ...................................................... (1) 
+Question 0:  4 8 Here is a centimetre grid. â6â5â4â3â2â1 12 3 4 5 6 â6â5â4â3â2â1123456 OA xy (a) Write down the coordinates of point A. (.............. , .............. ) (1) (b) On the grid, mark with a cross (Ã )	the	point	with	coordinates 	(â4,	3) Label this point B. (1) (c) On the grid, draw the circle with centre	(1,	â1) and radius 4 cm. (2) (Total for Question 8 is 4 marks)
+Question 9:  5 9 The graph shows information about the number of houses sold by an estate agent in each of six months last year. January February March April May June MonthNumber of houses sold60 5040302010 0 (a) How many houses were sold by the estate agent in February? ...................................................... (1) (b) For this estate agent, write down the ratio of the number of houses sold in January to the number of houses sold in June. .................................................................................. (2) 
+Question 10:  6 10 Sonia wants to book a holiday. 	 The	holiday	will	cost	Â£1428 Sonia will pay a deposit of Â£150 She will then pay the rest of the cost in 6 equal monthly payments. How much is each monthly payment? Â£...................................................... 
+Question 11:  7 11 The diagram shows a triangle ABC. BA CE D116Â° 25Â° x ACD and BCE are straight lines. Work out the size of the angle marked x. Give a reason for each stage of your working. ......................................................Â° 
+Question 0:  8 12 Here is a number machine. Ã· 7 + 5 input output 	 (a)	Work 	out	the	output	when	the	input	is	28 ...................................................... (1) Here is a different number machine. The number machine is not complete. + ..............Ã 11 input output When the input is 8, the output is 154 (b) Complete the number machine. (2) (T otal for Question 12 is 3 marks)
+Question 13:  9 13 Sophie works in a bed shop. During the last three months she sold 198 beds. 59 beds were sold without a mattress. 45 beds were double beds. 17 of the single beds were sold without a mattress. 67 of the 83 king size beds were sold with a mattress. Use this information to complete the two-way table. Single Double King size Total With mattress Without mattress Total 
+Question 13:  14 The box below contains three mathematical symbols. = < > From the box, choose a symbol to make each of the following statements correct. (i) 5 8 ............................ 2 8(1) 	 (ii)	â2	Ã	â3	............................ 	â3	+	9 (1) (Total for Question 14 is 2 marks)
+Question 15:  10 15 The table shows information about the number of social media accounts used by each of 300 students. Number of social media accounts Frequency 0 3 1 57 2 84 3 75 4 81 (a) Work out the total number of social media accounts used by these students. ...................................................... (2) (b) Find the median number of social media accounts used by these students. ...................................................... (2) 
+Question 15:  16	 On	a	scale	drawing,	a	building	has	length	12.4	cm	and	width	9.4	cm. 	 The	real	length	of	the	building	is	62	metres. Work out, in metres, the real width of the building. ...................................................... metres 
+Question 17:  11 17 On the grid below, draw the graph of y	=	4	â	x for values of x 	from	â2	to	4 â2â1 12 3 4 â2â1123456 O xy 7 
+Question 18:  12 18 This sign was in a doctorâ s waiting room. 115 appointments were missed last month. These	missed	appointments 	were	a	total	of	25.3	hours. Work out the mean length of time for each missed appointment. Give your answer in minutes. ...................................................... minutes 
+Question 19:  13 19 Nimra buys a 3 kg box of sweets for Â£17.60 She puts the sweets into bags to sell. Each bag contains 150 g of sweets. Nimra fills as many bags as possible. She will sell each bag for the same price. Nimra wants to make a profit of at least 35% Assuming she sells all the bags, what is the lowest price Nimra should char ge for each bag? Â£...................................................... 
+Question 20:  14 20 Lorena gets a train at the same time each morning to go to work. She gets a train at the same time each evening to come home. The probability tree diagram shows the probabilities of each train arriving late. (a) Complete the probability tree diagram. Train to work Train home not latelate not latelate 0.130.06 ............................ not latelate0.06 .............. (2) For a day that Lorena goes to work, (b) work out the probability that the train to work and the train home will both arrive late. ...................................................... (2) 
+Question 21:  15 21 (a) Simplify (x3)5 ...................................................... (1) (b) Expand and simplify 4( x	+	3)	+	7(4	â	2x ) .................................................................................. (2) (c) Factorise fully 15x3 + 3x2y .................................................................................. (2) 
+Question 22:  16 22 â5â4â3â2â1 12 3 4 5 â5â4â3â2â112345 O xy T S Describe fully the single transformation that maps shape S onto shape T. .................................................................................................................................................................................................................................................. .................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... 
+Question 22:  23 The length of a footbal l pitch is 90 metres, correct to the nearest metre. Complete the error inte rval for the length of the football pitch. ............................ m ï length < ............................ m (Total for Question 23 is 2 marks)
+Question 24:  17 24 Festival A will be in a rectangular field with an area of 80 000 m2 	 The	greatest	number	of	people	allowed	to	attend	Festival	A	is	425	 	 Festival 	B	will	be	in	a	rectangular 	field	700	m	by	2000	m. The greatest number of people allowed to attend Festival B is 6750 The area per person allowed for Festival B is greater than the area per person allowed for Festival A. (a) How much greater? Give your answer correct to the nearest whole number. ...................................................... m2 (4) Callum says, â300 cm2 is the same as 3 m2 because there are 100 cm in 1 m so you divide by 100â Callumâs method is wrong. (b) Explain why . .................................................................................................................................................................................................................................................. .................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... (1) 
+Question 25:  18 25 The points L , M and N are such that LMN is a straight line. The coordinates of L	are	(â3,	1) The coordinates of M are (4, 9) Given that LM : MN	=	2	:	3 , find the coordinates of N. (.............. , .............. ) 
+Question 25:  26 A new phone cost Â£679 The value of the phone decreases at a rate of 4% per year. Work out the value of the phone at the end of 3 years. Â£...................................................... 
+Question 27:  19 27	 In	Spain,	Sam	pays	27	euros	for	18	litres	of	petrol. In W ales, Leo pays Â£40.80 for 8 gallons of the same type of petrol. 1 euro = Â£0.85 4.5 litres = 1 gallon Sam thinks that petrol is cheaper in Spain than in Wales. Is Sam correct? You must show how you get your answer . 
+Question 28:  20 28 Solve the simultaneous equations 5 x	+	2 y	=	27 6 x + 4y	=	28 x = ...................................................... y = ...................................................... 
+
+
+
+
+Answers: 
+Question 1 answer:
+1480.
+Mark Scheme for question: cao.
+Question 2 answer:
+Part a: 7. Part b: 10. .
+Mark Scheme for question: oe fraction.
+Question 3 answer:
+3.
+Mark Scheme for question: cao.
+Question 4 answer:
+Part a: Suitable number. Part b: eg 725. .
+Mark Scheme for question: for a suitable 3 digit number ending in 0 or 5.
+Question 5 answer:
+40.
+Mark Scheme for question: cao.
+Question 6 answer:
+Part a: −11, −7, −2, 3, 8,. Part b: 10. .
+Mark Scheme for question: for −11, −7, −2, 3, 8, 10.
+Question 7 (a)
+(b)
+(c) answer:
+Part a: Hexagon. Part b: AF. Part c: AB or EF. .
+Mark Scheme for question: accept irregular hexagon
+cao Accept FA
+AB or EF. Accept BA or FE or both.
+Question 8 (a)
+(b)
+(c) answer:
+Part a: 3, 2. Part b: Point at (−4, 3). Part c: Circle drawn,. Part d: centre (1, −1). .
+Mark Scheme for question: cao
+cao
+fully correct diagram
+circle drawn with radius 4 cm (any centre) or circle drawn using
+centre (1, −1) r ≠ 4 cm).
+Question 9 (a)
+(b) answer:
+Part a: 23. Part b: 10 : 56. .
+Mark Scheme for question: cao
+for 10 or 56 identified
+for 10 : 56 or any other equivalent ratio.
+Question 10 answer:
+213.
+Mark Scheme for question: for beginning to work with costs
+eg 1428 – 150 (= 1278) or
+1428 ÷ 6 (= 238) and 150 ÷ 6 (= 25)
+for complete process to find monthly payment
+eg “1278” ÷ 6 or “238” – “25”
+cao.
+Question 11 answer:
+39 with reasoning.
+Mark Scheme for question: for a method to find angle ACB
+eg 180 – 116 − 25
+for 39
+for x = 39 with reasoning eg
+Angles in a triangle add up to 180 and
+Vertically opposite angles are equal or
+Vertically opposite angles are equal or
+Angles on a straight line add up to 180
+OR
+The exterior angle of a triangle is equal to the sum of the interior
+opposite angles and Angles on a straight line add up to 180.
+Question 12 (a)
+(b) answer:
+Part a: 9. Part b: 6. .
+Mark Scheme for question: cao
+starts to find input using inverse operations eg 154 ÷ 11 (= 14)
+or indicates ÷ 11 and − 8
+or derivation of equation eg (8+ n) × 11 = 154
+or starting to solve for unknown eg 154 − 8 × 11 (= 66)
+cao.
+Question 13 answer:
+Part a: 53 19 67 139. Part b: 17 26 16 59. Part c: 70 45 83 198. .
+Mark Scheme for question: for a fully correct table
+for at least 7 figures correctly placed)
+for the 4, 5 or 6 values correctly placed).
+Question 14 (i)
+(ii) answer:
+Part a: >. Part b: =. .
+Mark Scheme for question: cao
+cao.
+Question 15 (a)
+(b) answer:
+Part a: 774. Part b: 3. .
+Mark Scheme for question: for at least three of 0 × 3 (= 0) or 1 × 57 (= 57) or 2 × 84 (= 168) or
+3 × 75 (= 225) or 4 × 81 (= 324)
+or for 0 × 3 + 1 × 57 + 2 × 84 + 3 × 75 + 4 × 81
+cao
+for method to begin to work with the median, eg 300 ÷ 2 (= 150)
+cao.
+Question 16 answer:
+47.
+Mark Scheme for question: for process to find scale factor
+eg 62 ÷ 12.4 (= 5) or 12.4 ÷ 62 (= 0.2) or 9.4 ÷ 12.4 (= 0.758...) or
+12.4 ÷ 9.4 ( = 1.31..)
+for process to use the scale factor
+eg “5” × 9.4 or 9.4 ÷ “0.2” or 62 × “0.758..” or 62 ÷ “1.31..”
+Accept answers in the range 46.5 to 47.7.
+Question 17 answer:
+Line Drawn.
+Mark Scheme for question: for a correct line between x = –2 and x = 4
+for a correct straight-line segment through at least 3 of
+(–2, 6), (–1, 5), (0, 4), (1, 3), (2, 2), (3, 1), (4, 0)
+or for all of these points plotted but not joined
+or for a line drawn with a negative gradient through (0, 4) and clear
+intention to use a gradient of −1, eg a line through (0, 4) going across
+1 square and down 1 square)
+for at least 2 correct points stated or plotted
+or a line drawn with negative gradient through (0, 4)
+or a line with gradient −1).
+Question 18 answer:
+13.2.
+Mark Scheme for question: process to convert decimal time, eg 25.3 × 60 (= 1518) or
+0.3 × 60 (= 18)
+OR
+process to work with mean, eg [time] ÷ 115 (= 0.22)
+or 1÷ (115 ÷ [time]) (= 0.22)
+full process to work out mean time allocated for appointment,
+eg “1518” ÷ 115 or “0.22” × 60
+cao.
+Question 19 answer:
+1.19.
+Mark Scheme for question: process to find number of small bags that can be filled,
+eg [3kg] ÷ 150 (= 20) oe
+for starting a process to work with works with starting cost per
+percentage for cost of box, small bag,
+35 17.60 ÷ “20”
+eg 17.60 × (= 6.16)
+100
+or 100 + 35 (= 135)
+for full process to work with begins process to work with
+percentage increase, percentage for a small bag,
+"135" 35
+eg 17.60 × (= 23.76) eg “0.88” × (= 0.308)
+100 100
+full process to find selling price full process to find selling price
+for small bag, for small bag,
+eg “23.76” ÷ “20” (= 1.188) 135
+“0.88” × (= 1.188) oe
+100
+cao.
+Question 20 (a)
+(b) answer:
+Part a: 0.87, 0.94, 0.94. Part b: 0.0078. .
+Mark Scheme for question: for all probabilities correct
+for 0.87 or 0.94 correctly placed)
+for 0.13 × 0.06 oe
+0.0078 oe.
+Question 21 (a)
+(b)
+(c) answer:
+Part a: x15. Part b: 40 – 10x. Part c: 3x2 (5x + y). .
+Mark Scheme for question: cao
+for method to expand one bracket or collect like terms,
+eg 4 × x + 4 × 3 (= 4x + 12)
+or 7 × 4 − 7 × 2x (= 28 – 14x)
+or 4 × x− 7 × 2x (= 4x– 14x) and 4 × 3 + 7 × 4 (= 12 + 28)
+oe
+for 3(5x3 + x2y) or x(15x2 + 3xy) or 3x(5x2 + xy) or x2(15x + 3y)
+or 3x2(ax + by)
+cao.
+Question 22 answer:
+Part a: translation. Part b: -5. Part c: ( ). Part d: 6. .
+Mark Scheme for question: for translation
+for vector (-5)
+6.
+Question 23 answer:
+89.5 and 90.5.
+Mark Scheme for question: for 89.5 in the correct position
+for 90.5 in the correct position.
+Question 24 (a)
+(b) answer:
+Part a: 19. Part b: explanation. .
+Mark Scheme for question: for process to find area available at festival B,
+eg 700 × 2000 (=1 400 000)
+for finding the area available per person at one festival,
+eg 80 000 ÷ 425 (= 188.23..) or [area] ÷ 6750 (= 207.40..)
+for finding the area available per person at both festivals,
+eg 80 000 ÷ 425 (= 188.23..) and [area] ÷ 6750 (= 207.40..)
+answer in the range 18.7 to 19.5
+for a valid statement relating to scale factor for area,
+Acceptable examples
+there are 10000 (cm2) in 1 (m2)
+because 1 m2 is the same as 100 × 100 = 10000 cm2
+there are 2 side lengths that change from 1 m to 100 cm
+300 ÷ 3 is 100 should use 1002
+300 ÷ 100 ÷ 100 = 0.03
+3 × 100 × 100 = 30000
+Because it's area not length.
+Because it’s in m2 not just metres
+He hasn’t taken the squared sign into account
+Not acceptable examples
+there are 1000 cm in 1 m
+Callum is correct because …….
+300 ÷ 3 is 100
+32 = 9
+300 × 300 = 90000
+You have to square the number.
+Question 25 answer:
+14.5, 21.
+Mark Scheme for question: for process to work with coordinates,
+eg 4 – (−3) (= 7) or 9 – 1 (= 8)
+for process to use ratio,
+eg “7” ÷ 2 (= 3.5) or “8” ÷ 2 (= 4) or “7” × 3(= 21) or “8” × 3 (= 24)
+for complete process to find either the x or the y coordinate of N,
+eg “3.5” × 3 + 4 or “4” × 3 + 9 or “3.5” × 5 ‒3 or “4” × 5 + 1
+OR to find both the required distances
+eg “3.5” × 3 (= 10.5) and “4” ×3 (= 12)
+or “21” ÷ 2 (= 10.5) and “24” ÷ 2 (= 12)
+or “3.5” × 5 (= 17.5) and “4” × 5 (= 20)
+oe.
+Question 26 answer:
+600.74.
+Mark Scheme for question: works out decrease for one year, eg 679 × 4 ÷ 100 (=27.16) oe
+or 679 × (100 ‒ 4) ÷ 100 (= 651.84) oe
+for compound method, eg 679 × “0.96”t, t ≥ 2
+or “651.84” × “0.96” (= 625.76..) or “651.84” × “0.04” (=26.07)
+or for answers in the range 600.71 to 600.74 exclusive
+accept 600.71 or 600.72 or 600.73 or 600.74.
+Question 27 answer:
+Part a: No. Part b: (supported). .
+Mark Scheme for question: for a conversion with litres and gallons,
+eg 18 ÷ 4.5 (= 4) or 8 × 4.5 (= 36)
+for a conversion with £ and euros,
+eg 27 × 0.85 (= 22.95) or 40.8 ÷ 0.85 (= 48)
+for finding the unit price, eg 27 ÷ 18 (= 1.5)
+OR finding proportionality for fuel eg (“36” ÷ 18) (= 2)
+for No with comparative figures,
+eg No with 20.4 and 22.95 or No with 1.275 and 1.133...
+Question 28 answer:
+Part a: x = 6.5,. Part b: y = −2.75. .
+Mark Scheme for question: for a correct method to eliminate either x or y or method leading to
+substitution
+(dep) for substituting found value in one of the equations
+OR correct method after starting again
+for x = 6.5, y = −2.75 oe.

@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media print {
+   @page { padding-bottom: 10px; } 
+   .pagebreak {
+      clear: both;
+      page-break-after: always;
+  }
+}
+
+.pagebreak {
+  /* No styling */
+  margin-top: 30px;
+}

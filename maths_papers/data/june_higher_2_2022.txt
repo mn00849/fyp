@@ -1,0 +1,310 @@
+Higher Level Paper
+Questions: 
+
+
+
+
+Answers: 
+Question 1 (a)
+(b)
+(c) answer:
+Part a: x15. Part b: 40 – 10x. Part c: 3x2 (5x + y). .
+Mark Scheme for question: cao
+for method to expand one bracket, or collect like terms
+eg 4 × x + 4 × 3 (= 4x + 12)
+or 7 × 4 − 7 × 2x (= 28 – 14x)
+or 4 × x − 7 × 2x (= 4x – 14x) and 4 × 3 + 7 × 4 (= 12 + 28)
+oe
+for 3(5x3 + x2y) or x(15x2+3xy) or 3x(5x2 + xy) or x2(15x + 3y)
+or 3x2(ax + by)
+cao.
+Question 2 answer:
+Part a: translation. Part b: −5. Part c:  . Part d:  6 . .
+Mark Scheme for question: for translation
+−5
+for vector  
+ 6 .
+Question 3 answer:
+89.5 and 90.5.
+Mark Scheme for question: for 89.5 in the correct position
+for 90.5 in the correct position.
+Question 4 (a)
+(b) answer:
+Part a: 19. Part b: explanation. .
+Mark Scheme for question: for process to find area available at festival B,
+eg 700 × 2000 (=1 400 000)
+for process to find the area available per person at one festival,
+eg 80 000 ÷ 425 (= 188.23...) or [area] ÷ 6750 (= 207.40...)
+for process to find the area available per person at both festivals,
+eg 80 000 ÷ 425 (= 188.23...) and [area] ÷ 6750 (= 207.40...)
+for an answer in the range 18.7 to 19.5
+for a valid statement relating to scale factor for area,
+Acceptable examples
+There are 10000 (cm2) in 1 (m2)
+Because 1 m2 is the same as 100 × 100 = 10000 cm2
+There are 2 side lengths that change from 1 m to 100 cm
+300 ÷ 3 is 100 should use 1002
+300 ÷ 100 ÷ 100 = 0.03
+3 × 100 × 100 = 30000
+Because it's area not length.
+Because it’s in m2 not just metres
+He hasn’t taken the squared sign into account
+Not acceptable examples
+There are 1000 cm in 1 m
+Callum is correct because …….
+300 ÷ 3 is 100
+32 = 9
+300 × 300 = 90000
+You have to square the number.
+Question 5 answer:
+14.5, 21.
+Mark Scheme for question: for process to work with coordinates,
+eg 4 – (−3) (= 7) or 9 – 1 (= 8)
+for process to use ratio,
+eg “7” ÷ 2 (= 3.5) or “8” ÷ 2 (= 4) or “7” × 3 (= 21) or “8” × 3 (= 24)
+for complete process to find x or y coordinate of N,
+eg “3.5” × 3 + 4 or “4” × 3 + 9 or “3.5” × 5 ‒3 or “4” × 5 + 1
+OR to find both the required distances
+eg “3.5” × 3 (= 10.5) and “4” ×3 (= 12)
+or “21” ÷ 2 (= 10.5) and “24” ÷ 2 (= 12)
+or “3.5” × 5 (= 17.5) and “4” × 5 (= 20)
+oe.
+Question 6 answer:
+600.74.
+Mark Scheme for question: works out decrease for one year eg 679 × 4 ÷ 100 (= 27.16) oe
+or 679 × (100 − 4) ÷ 100 (= 651.84) oe
+for compound method, eg 679 × “0.96”t, t ≥ 2
+or “651.84” × “0.96” (= 625.76..) or “651.84” × 0.04 (= 26.07)
+or for answers in the range 600.71 to 600.74
+for 600.71 or 600.72 or 600.73 or 600.74.
+Question 7 answer:
+Part a: No. Part b: (supported). .
+Mark Scheme for question: for a conversion with litres and gallons,
+eg 18 ÷ 4.5 (= 4) or 8 × 4.5 (= 36)
+for a conversion with £ and euros,
+eg 27 × 0.85 (= 22.95) or 40.8 ÷ 0.85 (= 48)
+for finding the unit price, eg 27 ÷ 18 (= 1.5)
+OR finding proportionality for fuel eg (“36” ÷ 18) (= 2)
+for No with comparative figures,
+eg No with 20.4 and 22.95 OR No with 1.275 and 1.133….
+Question 8 answer:
+0.739.
+Mark Scheme for question: for partial evaluation, eg 6.07(5732...) or 7.2 (= 2.68(328...))
+or 7.80(778…) or 37.80(7782818...) (= 1.98(3851871…))
+for an answer in the range 0.739 to 0.747.
+Question 9 answer:
+0.8.
+Mark Scheme for question: for process to find the area,
+180 180
+eg 187.5= or 180 ÷ 187.5 (= 0.96) or = 187.5
+A 1.2x
+180
+or 1.2x=
+187.5
+for complete process to find width, eg “0.96” ÷ 1.2 or 180 ÷ 225
+cao.
+Question 10 (a)
+(b)
+(c) answer:
+Part a: Explanation. Part b: box plot drawn. Part c: decision and. Part d: comparisons. .
+Mark Scheme for question: for explanation, eg
+Acceptable examples
+The IQR is half the data
+This is half the data
+3
+of the data is less than 350(000)
+4
+3
+of the data is more than 160(000)
+4
+3
+of the data is lies between 60(000) and 350(000)
+4
+1
+of the data lies between 160(000) and 350(000)
+2
+Not acceptable examples
+The data lies between 160 and 350
+The IQR is 190 (000)
+IQR = UQ – LQ
+The upper and lower quartiles represent half the data
+for fully correct box plot
+for showing a box and at least 3 correctly plotted values)
+(ft) for correct comparison of medians eg the median for online is
+greater than the median for the shop, the shop takes less money from
+sales in general as the median is lower
+(ft) for a correct comparison of a measure of spread, eg the
+interquartile (range) of sales for the online store is greater than the IQR
+for the sales of the shop
+Comparisons for this mark can relate to the range or the IQR.
+For the award of both marks at least one comparison must be in the
+context of the question..
+Question 11 answer:
+Shown.
+Mark Scheme for question: for 6 × 14.5 (= 87) or 13 × 7 (= 91) or 13 ÷ 6 (= 2.16(666…))
+for “87” ÷ 7 (= 12.428...)
+or “87” ÷ 13 (= 6.692…)
+or 6 × 14.5 (= 87) and 13 × 7 (= 91)
+or 14.5 ÷ “2.16” (= 6.692...)
+(dep M2) for 12.(428…) (workers) or 6.69(2…) (days) or 87 and 91.
+Question 12 answer:
+Part a: comparison. Part b: shown. .
+Mark Scheme for question: for starting to manipulate equation,
+4
+eg 5y= 10x + 15 or 5y = 10x – 4 or y ‒ 2x + = 0 or y – 2x = 3
+5
+for statement and equation(s) which can be used to show that the
+gradients of the two lines are the same,
+eg 5y= 10x + 15 and 5y = 10x – 4 and both have the same x
+coefficient
+4
+OR y = 2x – and both have a gradient of 2
+5.
+Question 13 answer:
+enlargement.
+Mark Scheme for question: for correct enlargement at (4, 8) (6, 4) (10, 4) (12, 8)
+for correct size and orientation in the wrong position
+OR 3 of 4 vertices correct).
+Question 14 answer:
+1220.
+Mark Scheme for question: 45 180 305
+for (= 0.147...) or (= 4) or (= 6.77...)
+305 45 45
+45
+or (= 0.25)
+180
+45 180 45 305 180305
+for = or = or
+305 n 180 n 45
+cao.
+Question 15 answer:
+(M) 18, (K) 15.
+Mark Scheme for question: for start of process, eg (6x + 1.5) and (5x + 1.5)
+or (6x + 1.5) and (11x + 3)
+or a + 1.5 and b + 1.5
+OR starts to work with ratio, eg 6 : 5 = 12 : 10
+for setting up an equation,
+6x+1.5 13
+eg = or 66x + 16.5 = 65x + 19.5
+5x+1.5 11
+6x+1.5 13
+or = or 144x + 36 = 143x + 39
+11x+3 24
+a 6 a+1.5 13
+or = and =
+b 5 b+1.5 11
+or 5a = 6b and 11a + 16.5 = 13b + 19.5 oe
+OR for comparing 12 : 10 to 13 : 11 and deducing 1 part = 1.5
+for isolating in terms of x, eg 66x – 65x = 19.5 – 16.5
+or 144x – 143x = 39 – 36 or x = 3
+or for eliminating a or b, eg 55a = 66b and so 66b = 65b + 15
+OR for process to find values for M and K, eg 12 × 1.5 and 10 × 1.5
+cao.
+Question 16 (a)
+(b) answer:
+Part a: Venn diagram. Part b: 12. Part c: 62. .
+Mark Scheme for question: fully correct Venn diagram
+6 or 7 of the 8 regions correct )
+4 or 5 of the 8 regions correct)
+2 or 3 of the 8 regions correct)
+"8+4"
+(ft their Venn diagram) for where b > “8 + 4”
+b
+a
+or where a < “44 + 8 + 4 + 6” oe
+"44+8+4+6"
+ft oe.
+Question 17 (a) answer:
+25.9.
+Mark Scheme for question: for process to find volume of hemisphere,
+1 4 343
+eg  3.53 (=89.797…)  
+2 3  12 
+or for a correct expression for the volume of the cone,
+1 1
+eg 3.52(y−3.5) or 3.52h
+3 3
+for setting up an equation linking all three aspects,
+1 4 1
+eg  3.53 + 3.52(y−3.5) = 120π
+2 3 3
+or “89.797…” + “12.828…”(y ‒ 3.5) = “376.99 …”
+or “28.5833…” π + “4.0833...” π(y ‒ 3.5) = 120π
+for process to isolate y or (y – 3.5) or h in their equation,
+1 4 1
+120−  3.53+ 3.53
+2 3 3
+eg
+1
+3.52
+3
+"376.99..."−"89.797..."+"44.898..."
+or
+"12.828..."
+120−"28.583..."+"14.291..."
+or oe
+"4.083..."
+for answer in range 25.8 to 26.3
+1097
+SCB3 for an answer in the range 22.3 to 22.8 or
+49.
+Question 18 answer:
+7.63.
+Mark Scheme for question: for process to use the cosine rule to find QR,
+eg (QR2 =) 112 + 9.42 – 2 × 11 × 9.4 cos(27)
+for correct order of operations,
+eg QR = 209.36−206.8cos27 (= 5(.009…))
+or QR = 25(.09...) or 25.1
+(dep on M1) for process to use the sine rule,
+QS [QR] [QR]sin88
+eg = oe or QS = (= 7.631...) oe
+sin88 sin41 sin41
+for answer in range 7.61 to 7.632.
+Question 19 (a)
+(b) answer:
+Part a: 3. Part b: 2. Part c: x3+5. .
+Mark Scheme for question: cao
+x3+5
+( g−1(x)=)
+for finding oe
+2
+1
+( hg−1(x)=)
+for = oe
+g−1(x)
+ 
+−1
+ x3+5
+Accept  
+ 2 .
+Question 20 answer:
+98.
+Mark Scheme for question: for BAD = 132 ÷ 2 (= 66)
+eg BCD = 180 – “66” (= 114) M2 for reflex BOD = 360 – 132
+or ABE = 180 – “66” – 16 (= 98) (= 228)
+and BCD = “228” ÷ 2 (= 114)
+for finding CDE = 98
+(dep on at least M2) for one circle theorem relevant to their method
+eg The angle at the centre of a circle is twice the angle at the
+circumference
+or Opposite angles of a cyclic quadrilateral add up to 180.
+Question 21 (a)
+(b) answer:
+Part a: Sketch. Part b: tan(x + 270)° –5. .
+Mark Scheme for question: for an appropriate sketch, ie reflection in y axis
+for describing one part of the translation,
+eg 360 – 90 (= 270) or tan(x + 270)
+or (y =) tan(kx + a) – 5 where k and a are numbers and k ≠ 0
+cao.
+Question 22 answer:
+x < −7, x > 8.
+Mark Scheme for question: for method to solve x2 – 49 > 0 eg (x + 7)(x – 7)
+or 7 and −7
+for x < −7 and x > 7
+for method to solve 5x2 - 31x - 72 > 0
+−−31 (−31)2 −45(−72)
+eg (5x ± 9)(x ± 8) or
+25
+or 8 and −1.8 oe
+for x < −1.8 and x > 8
+cao.

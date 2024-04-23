@@ -1,0 +1,313 @@
+Higher Level Paper
+Questions: 
+
+
+
+
+Answers: 
+Question 1 answer:
+x < 5.
+Mark Scheme for question: for adding 27 to both sides or dividing throughout by 7 (in an inequality
+or an equation) as a first step
+or showing 5 as the critical value
+cao.
+Question 2 answer:
+2 × 2 × 31.
+Mark Scheme for question: for a complete method to find prime factors; could be shown on a
+complete factor tree with no more than one error or by division by prime
+factors with no more than one error
+or for 2, 2, 31, (1)
+for 2 × 2 × 31 oe.
+Question 3 answer:
+30.
+Mark Scheme for question: 3 3
+for 160 ÷ (3+7) (= 16) or (= )
+3+7 10
+3
+for “16” × 3 (= 48) or “ ” × 160 (= 48)
+10
+for a correct step using 48
+eg “48” ÷ 8 (= 6) or “48” × 25 ÷ 100 (= 12)
+1
+or (indep) for combining and 25%,
+8
+1 1 3
+eg + (= ) or “0.125” + “0.25” (= 0.375)
+8 4 8
+or “12.5”(%) + 25(%) (= 37.5(%))
+for a complete process to find the number of petrol cars,
+3
+eg “48” – “6” – “12” oe or (1 ̶ “ ”) × “48” oe
+8
+3 3
+or “ ” × (1 ̶ “ ”) × 160 oe
+10 8
+cao
+SC B2 for an answer of 100 if P0 scored.
+Question 4 (a)
+(b)
+(c) answer:
+Part a: 0.00163. Part b: 4.38 × 105. Part c: 2.410−1. .
+Mark Scheme for question: cao
+cao
+for 46103−5 or 0.24 oe eg 24 × 10−2 or 2.410n where n ≠ ̶ 1
+cao.
+Question 5 answer:
+132.
+Mark Scheme for question: for finding an exterior angle eg 360 ÷ 6 (= 60) or 360 ÷ 5 (= 72)
+or an interior angle eg 180 × 4 ÷ 6 (= 120) or 180 × 3 ÷ 5 (= 108)
+for a complete method
+eg 360 ̶ “120” ̶ “108” or “60” + ”72”
+cao.
+Question 6 (a)
+(b)
+(c) answer:
+Part a: 5,(1),(-1),-1,1,5. Part b: Graph drawn. Part c: 0.3 to 0.5. Part d: and. Part e: 2.5 to 2.7. .
+Mark Scheme for question: for all 4 values correct
+for 2 or 3 correct values)
+for a fully correct graph
+ft (dep on B1 in (a)) for plotting at least 5 of the points from their table
+correctly)
+for a correct method, eg marking intercepts with x-axis
+or one correct solution
+or both solutions given as a coordinates,
+eg (0.4, 2.6) or (0.4, 0) and (2.6, 0)
+for answers in the range 0.3 to 0.5 and 2.5 to 2.7 or ft their graph with at
+least 2 solutions.
+Question 7 answer:
+3 : 2.
+Mark Scheme for question: for a process to find either volume eg 33 (= 27) or 43 (= 64)
+for showing density A = 81 ÷ “27” (= 3)
+or density B = 128 ÷ “64” (= 2)
+for 3 : 2 oe.
+Question 8 answer:
+19.
+Mark Scheme for question: for a method to find 5 products within intervals (including end points)
+for Ʃ“fx” ÷ (8 + 10 + 7 + 2 + 3)
+or (5×8 + 15×10 + 25×7 + 35×2 + 45×3) ÷ (8 + 10 + 7 + 2 + 3)
+or (“40” + “150” + “175” + “70” + “135”) ÷ “30”
+or “570” ÷ “30”
+cao.
+Question 9 answer:
+278.
+Mark Scheme for question: for working out at least 3 areas from
+5 × 7 (= 35)
+5 × 6 (= 30)
+7 × 6 (= 42)
+4 × 4 (= 16)
+for a complete process,
+eg “35”× 2 + “30”× 2 + “42” + (“42” – “16”) + “16” × 5 oe
+or “35”× 2 + “30”× 2 + “42” × 2 + “16” × 4
+OR
+for a process to find the total surface area of at least 5 faces for each
+solid,
+eg “35”× 2 + “30”× 2 + “42” and “16”× 6
+or “35”× 2 + “30”× 2 + “42”× 2 and “16”× 5
+cao.
+Question 10 (a)
+(b)
+(c)
+(d) answer:
+Part a: 10, 25, 50, 80,. Part b: 85,100. Part c: Graph drawn. Part d: 35 to 39. Part e: 85 to 93. .
+Mark Scheme for question: cao
+for 5 or 6 of their points plotted correctly from a cf table with no more
+than one error
+for a fully correct graph
+SC B1 for 5 or 6 cf values plotted at correct heights not at end but
+consistently within each interval and joined provided no gradient is
+negative
+for answer in the range 35 to 39 or ft their graph (if possible)
+for finding the difference between readings taken from the profit axis at
+points from a cf of 25 and a cf of 75 ft their graph (if possible)
+for answer in the range 85 to 93 or ft their graph (if possible).
+Question 11 answer:
+8.
+Mark Scheme for question: for a start to the process,
+9 3 9
+eg or ( =)
+9+4+x 7 21
+or states that the total number of sweets is 21
+for forming a correct equation without fractions,
+eg 9 × 7 = 3(9 + 4 + x) or 21 = 9 + 4 + x
+9 4 8
+OR for 21 – 9 – 4 oe or 1 – – (= )
+21 21 21
+cao.
+Question 12 answer:
+Part a: 116. Part b: 990. .
+Mark Scheme for question: for (x =) 0.11717... or (10x =) 1.17or 1.1717...
+or (100x =) 11.71 or 11.7171... or (1000x =) 117.17 or 117.1717...
+(dep M1) for a method using two recurring decimals that leads to a
+terminating decimal difference, using correct multiples of x
+eg (1000x – 10x =) 117.17– 1.17 (= 116)
+or 117.1717... – 1.1717... (= 116)
+116 58
+for oe, eg
+990 495.
+Question 13 answer:
+Part a: Relationship. Part b: shown. .
+Mark Scheme for question: for use of Pythagoras’ theorem,
+eg d 2 = d 2+ d 2 or a2 = b2 + c2 or (2x)2 = (2y)2 + (2z)2 or a = b2 +c2
+A B C
+or uses a 3, 4, 5 triangle
+for forming correct expressions for the areas of at least 2 of the 3
+semicircles,
+1 a2 1 b2 1 c2
+eg at least two of   ,   ,  
+2 2 2 2 2 2
+1 1 1
+or at least two of x2, y2, z2
+2 2 2
+1 52 1 32 1 42
+or at least two of   ,   ,  
+2 2 2 2 2 2
+for a fully correct and convincing chain of reasoning, eg showing that
+1 a2 1 b2 1 c2
+eg   =   +   can be reduced to a2 = b2 + c2
+2 2 2 2 2 2
+1 1 1
+or that (2x)2 = (2y)2 + (2z)2 is the same as x2 = y2 + z2
+2 2 2.
+Question 14 (a)
+(b) answer:
+Part a: 0.9. Part b: Statement. .
+Mark Scheme for question: for drawing a tangent at t = 2
+for a complete method to find the gradient
+eg tangent at t = 2 and “2.7” ÷ “3”
+for answer in the range 0.7 to 1.1
+eg distance (travelled).
+Question 15 (a)
+(b) answer:
+Part a: 𝐴⃗⃗⃗⃗𝐶⃗ = 5𝐴⃗⃗⃗⃗𝐵⃗ and. Part b: reason. Part c: 5 : 2. .
+Mark Scheme for question: for 𝐴⃗⃗⃗⃗𝐶⃗ = 5(3a + 4b) or 𝐵⃗⃗⃗⃗𝐶⃗ = 4(3a + 4b)
+or indicates that 15a + 20b = 5 × (3a + 4b)
+for 𝐴⃗⃗⃗⃗𝐶⃗ = 5𝐴⃗⃗⃗⃗𝐵⃗ or 𝐴⃗⃗⃗⃗𝐶⃗ = 5(3a + 4b) or 15a + 20b = 5(3a + 4b) and a
+correct reason,
+eg AC is a multiple of AB / multiples of each other / AB is a factor of AC
+or they have the same gradient / are parallel / go in the same direction
+or they have a point in common / both start at A
+or AC is an enlargement of AB
+for ( 𝐷⃗⃗⃗⃗𝐹⃗ =) 3e + 6f + ( ̶ 10.5e ̶ 21f ) (= ̶ 7.5e ̶ 15f)
+or for a multiplicative relationship for 𝐷⃗⃗⃗⃗𝐸⃗ and 𝐸⃗⃗⃗⃗𝐹⃗
+eg 𝐸⃗⃗⃗⃗𝐹⃗ = ̶ 3.5 𝐷⃗⃗⃗⃗𝐸⃗ or for (DE : EF =) 1 : –3.5 oe
+for a multiplicative relationship for 𝐷⃗⃗⃗⃗𝐹⃗ and 𝐷⃗⃗⃗⃗𝐸⃗
+eg 𝐷⃗⃗⃗⃗𝐹⃗ = ̶ 2.5 𝐷⃗⃗⃗⃗𝐸⃗ or for (DF : DE =) –5 : 2 oe eg –2.5 : 1 or –7.5 : 3
+or for answer of 2 : 5 oe
+oe eg 2.5 : 1.
+Question 16 answer:
+0.78.
+Mark Scheme for question: for using 0.75 or 0.25 in a relevant product,
+eg 0.75 × x or 0.25 × y
+for using two products to form an equation,
+eg 0.75x + 0.25y = 0.36
+for a correct equation in one variable,
+eg 0.75(1 – p) + 0.25p = 0.36 or 0.75f + 0.25(1 – f) = 0.36
+oe.
+Question 17 answer:
+Part a: 40. Part b: y=. Part c: x3. .
+Mark Scheme for question: K
+for setting up an equation with a constant term, egy=k t or t =
+x3
+for a process to substitute values in one equation,
+K
+eg 15 =k 9 or k = 5 or 8 = or K = 64
+23
+(dep P2) for combining the two equations ft their values of k and K,
+64
+eg y=5
+x3
+64
+OR for y=5 t and t =
+x3
+oe.
+Question 18 answer:
+16.
+Mark Scheme for question: 1
+−
+ 4 2
+for working with square root or with reciprocal in 5 
+ 9
+1
+−1
+ 9 2 1 1 7 3
+eg   or or or   or
+49 49 1 3 7
+2
+49
+9  
+ 9 
+3 14
+for a full method to simplify the numerator eg  (= 2)
+7 3
+3 14
+for showing 2−3as × 8, eg  8
+7 3
+or for 212−3(= 24)
+or for correctly reducing the expression to a single calculation,
+336 112 1
+eg or or 2 ÷
+21 7 8
+cao.
+Question 19 answer:
+Part a: 5 15. Part b: 2. .
+Mark Scheme for question: for using a common denominator
+x−1 3(2x−1)
+eg + (= 1)
+(2x−1)(x−1) (2x−1)(x−1)
+or (x – 1) + 3(2x – 1) = (2x – 1)(x – 1)
+for expanding and rearranging to get 2x2 – 10x + 5 (= 0)
+(dep M1) ft for a method to solve their 3 term quadratic equation
+10 (−10)2 −425 10 60
+eg or
+22 4
+ 52 52
+
+or 2x−  −   +5=0 oe
+ 2 2 
+cao.
+Question 20 answer:
+7x + 5y – 82 = 0.
+Mark Scheme for question: for process to work out the gradient of the line from the centre of the
+8−3 5
+circle to the point (6,8) eg (= )
+6−−1 7
+(dep P1) for using mn = ̶ 1
+5 7
+eg ̶ 1 ÷ “ ” (= − )
+7 5
+7
+for substituting (6, 8) into y = “− ” x + c
+5
+7
+or for ( y – 8) = “− ”(x – 6)
+5
+7 82
+or for y = − x + oe
+5 5
+7x + 5y – 82 = 0 oe
+SC B2 for answer of 5x + 7y – 86 = 0 oe in any form.
+Question 21 answer:
+Part a: 16. Part b: 16 3−. Part c: 3. .
+Mark Scheme for question: for identifying an angle of 60 or 120
+for process to find the area of a sector of angle 60 or 120
+60 8 120 16
+eg 42× (= ) or 42× (= )
+360 3 360 3
+for process to find the area of an equilateral triangle
+1 4 42 −22
+eg × 4 × 4 × sin 60 (= 4 3 ) or (= 2 12 or4 3 )
+2 2
+or the area of an isosceles triangle or area of a right-angled triangle
+1 2 42 −22
+eg × 4 × 4 × sin 120 (= 4 3 ) or (= 12or2 3 )
+2 2
+for using area of sector – area of triangle to find area of a segment
+60 1 8
+eg 42× – × 4 × 4 × sin 60 (= –4 3 )
+360 2 3
+120 1 16
+or 42× – × 4 × 4 × sin 120 (= –4 3 )
+360 2 3
+16 16 16
+for 16−4( −4 3+ ) or 16 3− oe
+6 6 3.

@@ -1,0 +1,346 @@
+Higher Level Paper
+Questions: 
+
+
+
+
+Answers: 
+Question 1 answer:
+7.5.
+Mark Scheme for question: for correct use of Pythagoras, eg.8.52 – 42 (= 56.25) or 42 + x2 = 8.52
+1 15
+for 7.5 or 7 or
+2 2.
+Question 2 (a)
+(b) answer:
+Part a: 25. Part b: d −4. Part c: p = oe. Part d: 3. .
+Mark Scheme for question: for (T =) 4 × (– 3)2 – 11 or 4 × (– 3)2 = 36
+cao
+𝑑 4
+for a correct first step, eg. d – 4 = 3p or = p +
+3 3
+𝑑−4
+or for as answer
+3
+d −4
+for p = oe
+3.
+Question 3 answer:
+1.5.
+Mark Scheme for question: for process to develop 3 algebraic expressions, eg. (R =) n, (S =) 2n, (T =) 2n – 6, oe,
+at least two must be correct.
+or for selecting 3 values satisfying the given criteria,
+eg. (R =) 10, (S =) 20, (T =) 14
+for process to sum 3 algebraic expressions and equating to 54,
+eg. n + “2n” + “2n – 6” = 54
+or for finding the correct sum of their values
+eg. “10” + “20” + “14” = 44
+for start of process to solve the correct linear equation,
+eg. 5n = 54 + 6 (n = 12)
+or for 12, 24, 18
+for “12” : 2 × “12” – 6 oe eg 12 : 18 oe or 18 : 12 linked to T, R
+3 1
+for 1.5 or or 1
+2 2.
+Question 4 answer:
+Part a: Chic Decor with. Part b: correct. Part c: supporting. Part d: evidence. .
+Mark Scheme for question: 15
+for process to find cost of 15 rolls from Chic Decor, eg × 36 (= 180)
+3
+or
+for process to find cost of 15 rolls from Style Papers at normal price,
+15
+eg × 70 (= 210)
+5
+or
+for process to find cost of 1 roll from Chic Decor, eg 36 ÷ 3 (= 12)
+or
+for process to find cost of 1 roll from Style Papers, eg 70 ÷ 5 (= 14)
+or
+36
+for process to find the cost of 5 rolls from Chic Decor, eg × 5 (= 60)
+3
+for any first step in using the discount at Style Papers,
+eg 0.12 × “210” (= 25.2(0)) or 0.12 × “14” (= 1.68) or 0.12 × 70 (= 8.4(0))
+or 1 – 0.12 (= 0.88)
+for full process to find cost from Style Papers,
+eg. “210” – “25.2” oe (=184.8(0)) or “0.88” × “210”
+or for “14” – “1.68” oe (= 12.32) or “0.88” × “14”
+or for 70 – “8.4(0)” oe (= 61.6(0)) or “0.88” × 70
+for Chic Decor with fully correct figures
+eg 180 and 184.8(0)
+or 12 and 12.32
+or 60 and 61.6(0).
+Question 5 answer:
+Part a: 40 missing from. Part b: frequency scale. Part c: Incorrect. Part d: point (50, 5). .
+Mark Scheme for question: Two different statements
+Acceptable
+eg (50, 5) / the last point is incorrect
+the last point should be at (45,5)
+the last point plotted was placed incorrectly
+for his last point he has plotted by the end of the data and for the rest he has plotted by the
+middle
+he did not use the midpoint, he used 50 instead of 45
+40 missing (from vertical axis)
+vertical scale is not linear
+the frequency doesn’t increase in the same intervals
+the vertical axis is not right
+Not acceptable
+eg the last point should be at (40, 5)
+bottom of the polygon should be connected
+he didn’t start the graph at the origin
+he did not draw a polygon
+he has plotted the first 4 points at midpoint
+One acceptable statement).
+Question 6 answer:
+10.
+Mark Scheme for question: for a process to use distance = speed × time for either of the parts of Jessica’s
+journey,
+15 40
+eg. 6 (= 1.5) or 9 (= 6) or 6 × 15 (= 90) or 9 × 40 (= 360)
+60 60
+for a process to add the 2 distances for Jessica,
+15 40
+eg 6 + 9 (= 7.5) or 6 × 15 + 9 × 40 (= 450)
+60 60
+for complete process to find Amy’s average speed,
+eg. “7.5” ÷ “0.75” oe or “450” ÷ 45
+cao.
+Question 7 answer:
+Part a: Complete chain. Part b: of reasoning. .
+Mark Scheme for question: for (area of trapezium TQRS =) 0.5 × 4x × (2x + 3x)
+or for (area of rectangle TUVS =) 4x × (3x + 5) (= 12x2 + 20x)
+for (area of trapezium QUV R =) 4x(3x + 5) ‒ 0.5 × 4x × (2x + 3x)
+for correct algebraic processing and simplification to the given form
+Alternative 1
+for (QU =) 3x + 5 – 2x (= x + 5)
+for (area of trapezium QUVR =) 0.5 × 4x × ((“x + 5”) + 5) or 0.5 × 4x × (x + 10)
+for correct algebraic processing and simplification to the given form
+Alternative 2
+for (area of triangle =) 0.5 × (3x – 2x) × 4x or for (area of rectangle =) 4x × 5
+for (area of trapezium QUVR =) “0.5 × (3x – 2x) × 4x” + “4x × 5”
+for correct algebraic processing and simplification to the given form.
+Question 8 (a)
+(b) answer:
+Part a: 0.14. Part b: Cost per unit of. Part c: electricity. .
+Mark Scheme for question: for a method to find the gradient, eg. 14 ÷ 100 using readings from the graph, at least
+one correct
+or for an answer of 0.14x
+for answer in the range 0.135 to 0.145 or ft correct readings from the graph
+for a correct explanation
+Acceptable examples
+eg cost of each unit (of electricity)
+rate of change of cost with units of electricity used
+cost per unit of electricity
+each unit costs 14p
+average cost charged for each unit of electricity used
+Not acceptable examples
+cost of how many units used
+costs in pounds per number of units used
+how much the cost of electricity goes up
+the relationship of cost and number of units used
+how steep it is.
+Question 9 (a)
+(b) answer:
+Part a: 1060. Part b: reason. .
+Mark Scheme for question: for a correct first step using one of the rules of indices,
+eg. 10150 × 1090 = 10240 or 10360 ÷ 10150 = 10210 or 10360 ÷ 1090 = 10270
+or √10360 = 10180 or √10150 = 1075 or √1090 = 1045
+10180
+for correct use of rules of indices leading as far as √10120 or
+10120
+cao
+for correct reasoning
+Acceptable examples
+eg should do 50 × 2 (not 50²)
+because (1250)2 = 12100
+because when you have a power inside and outside the bracket you times them
+because (𝑎𝑏)𝑐 = 𝑎𝑏𝑐 (not 𝑎𝑏𝑐 )
+Not acceptable examples
+because you need to multiply everything in the brackets by 2
+because he should have squared 12 as well
+you add the powers instead of timesing.
+Question 10 answer:
+24000.
+Mark Scheme for question: for use of either 0.9 or 0.875
+or
+for 18900 (after 2 years)
+for using 0.92 × 0.875 (= 0.70875) oe
+or
+for 21000 (after 1 year)
+cao.
+Question 11 answer:
+240.
+Mark Scheme for question: for 16 × 5 × 3
+cao.
+Question 12 answer:
+23.4.
+Mark Scheme for question: for stating that AC = 8 or for a relationship that may be used to find AC
+𝐴𝐶
+eg (AC =) 8 × tan 45 or tan 45 =
+8
+for relationship that may be used to find AB,
+"8"
+eg sin (20) = “8” ÷ AB or (AB =)
+sin20
+for answer in the range 23.3 to 23.4
+Alternative
+for a relationship that may be used to find AD
+eg cos (45) = 8 ÷ AD oe or (AD =) 11.3(13...)
+𝐴𝐵 "11.3"
+for a relationship that may be used to find AB, eg =
+sin45 sin20
+for answer in the range 23.3 to 23.4.
+Question 13 answer:
+Part a: −1. Part b: ( ). Part c: 4. .
+Mark Scheme for question: 2 8 6
+for 3( ) – 2b = ( ) oe or for ( )
+−3 −17 −9
+3×2−8 −2 8−3 × 2 2
+for 2b = ( ) (= ( ) ) oe or –2b = ( ) (= ( ) ) oe
+3×−3−−17 8 −17−3 × −3 −8
+or for one element correct, –1 or 4
+cao
+1
+(if M0 scored, SC B1 for ( ))
+−4.
+Question 14 (a)
+(b) answer:
+Part a: 4(p – 3)(p + 3). Part b: 6m3 +11m2 –. Part c: 57m – 20. .
+Mark Scheme for question: for 4(p2 – 9) or partial factorisation which includes the product of 2 linear factors
+eg. (4p – 12)(p + 3) or (p – 3)(4p + 12) or (2p – 6)(2p + 6)
+or 2(2p – 6)(p + 3) or 2(2p + 6)(p – 3) or 2(p – 3)2(p + 3)
+for 4(p – 3)(p + 3)
+for a method to find the product of two linear expressions, 3 correct terms out of 4
+terms,
+eg. 6m2 +2m – 15m – 5 = 6m2 – 13m – 5
+or 2m2 +8m – 5m – 20 = 2m2 + 3m – 20
+or 3m2 + 12m + m + 4 = 3m2 + 13m + 4
+for a complete method to obtain all terms, at least half of which are correct
+(ft their first product), eg. 6m3 + 2m2 – 15m2 + 24m2 + 8m – 60m – 5m – 20
+for 6m3 +11m2 – 57m – 20.
+Question 15 answer:
+Proof.
+Mark Scheme for question: for angle PQX = angle SRX as angles in the same segment are equal
+(or angles at the circumference subtended from the same arc/chord of a circle are
+equal)
+or angle QPX = angle RSX as angles in the same segment are equal
+(or angles at the circumference subtended from the same arc/chord of a circle are
+equal)
+or angle PXQ = angle SXR as vertically opposite angles/ vertically opposite angles
+are equal
+or for identifying two pairs of corresponding equal angles with no reason given
+for identifying two pairs of corresponding equal angles with correct reasons given
+for stating that the triangles are similar because all three pairs of corresponding
+angles are equal with complete reasons given..
+Question 16 answer:
+17.4.
+Mark Scheme for question: for stating any correct bound, eg. 6.75 or 6.85 or 0.045 or 0.055
+using both UB of e and LB of f to work out value of 2e ÷ f,
+2×6.85
+eg 2[UB of e] ÷ [LB of f] or
+0.045
+for answer in the range 17.4 to 17.5 from correct working.
+Question 17 (a)
+(b) answer:
+Part a: histogram drawn. Part b: 0.4n. .
+Mark Scheme for question: for fully correct histogram, eg. relative heights 90, 96, 44, 8, 6
+for 4 correct bars
+or
+for frequency ÷ class interval for all 5 frequencies and 2 correct bars of different
+widths)
+for 2 correct bars of different widths
+or
+for frequency ÷ class interval for at least 3 frequencies)
+1
+for finding ratio of heights or widths of bars, eg 5 : 1 or , 1 : 2
+5
+or
+𝑛
+oe or 2n oe as answer
+5
+or
+compares areas of bars, eg 6 and 2.4 or 3 and 1.2 or 150 and 60
+for 0.4n oe.
+Question 18 answer:
+30.6.
+Mark Scheme for question: 3
+for process to find TC, eg. (TC =) 14 × (= 6)
+3+4
+for process to find TD, eg. (TD =) √142+ "6"2 or √232 or 2√58 (= 15.2…)
+for process to find SD, using area of a trapezium,
+147 = 0.5 × (SD + 12) × 14, or SD= 9
+"9"
+for tan-1( )
+"15.2…"
+for answer in the range 30.4 to 30.7.
+Question 19 answer:
+Part a: −11𝑥+2. Part b: 𝑥2−4. .
+Mark Scheme for question: for writing at least one of the 3 terms with a denominator of (x2 – 4) or (x – 2)(x + 2)
+3𝑥(𝑥−2) (𝑥+2)(2𝑥+1) 𝑥2−4
+eg. oe or oe or
+𝑥2−4 𝑥2−4 𝑥2−4
+3𝑥(𝑥−2) (𝑥+2)(2𝑥+1) 𝑥2−4
+for ̶ ̶ oe
+𝑥2−4 𝑥2−4 𝑥2−4
+𝑥2−11𝑥−2
+or for (– 1)
+𝑥2−4
+[𝑥2−11𝑥−2] 𝑥2−4
+or for –
+𝑥2−4 𝑥2−4
+for a numerator of 3x2 – 6x – 2x2 – 5x – 2 – x2 + 4
+−11𝑥+2
+for
+𝑥2−4.
+Question 20 answer:
+44 384.
+Mark Scheme for question: for process to find a, eg. 29 600 = 24 000a + 800 or (a =) 1.2 oe
+for (𝑃 =) “1.2” × 29 600 + 800 (= 36 320)
+2020
+for (𝑃 =) “1.2” × “36 320” + 800
+2021
+cao.
+Question 21 answer:
+Part a: 11. Part b: 21. .
+Mark Scheme for question: 𝑎 𝑏 𝑐
+for any product of 3 probabilities of the form × × where a ˂ 9, b ˂ 8, c ˂ 7
+9 8 7
+for a product of 3 probabilities giving an even sum,
+4 3 2 4 5 4
+eg. E,E,E = × × or E,O,O = × ×
+9 8 7 9 8 7
+for summing the product of at least three correct triples,
+eg (E,E,E + E,O,O + O,O,E =)
+4 3 2 4 5 4 5 4 4 4 5 4
+× × + × × + × × OR 3( × × )
+9 8 7 9 8 7 9 8 7 9 8 7
+11
+for oe
+21
+364
+SCB1 for answer of (replacement)
+729.
+Question 22 answer:
+Part a: (– 3 , – 11) and. Part b: (5.5, 6). .
+Mark Scheme for question: for method to eliminate one variable, eg (2x – 5)2 = 6x2 – 25x – 8
+or
+2
+𝑦2 = 6(𝑦+5 ) – 25(𝑦+5 ) – 8
+2 2
+for expanding the square to give,
+eg. 4x2 – 20x + 25 = 6x2 – 25x – 8
+or
+𝑦2 = 6(𝑦2+10𝑦+25 ) – 25(𝑦+5 ) – 8
+4 2
+for method to solve equation 2x2 – 5x – 33 (= 0),
+−−5±√(−5)2−4×2×−33
+eg (2x – 11)(x + 3) (= 0) or x = or –3, 5.5 oe
+2×2
+or
+for method to solve equation 2y2 + 10y – 132 (= 0),
+−10±√102−4×2×−132
+eg. (2y + 22)(y – 6) (= 0) or y = or –11, 6
+2×2
+for (– 3, – 11)
+for (5.5, 6) oe.

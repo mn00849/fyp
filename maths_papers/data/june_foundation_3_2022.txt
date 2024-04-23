@@ -1,0 +1,308 @@
+Foundation Level Paper
+Questions: 
+Question 0:  2 Answer ALL questions. Write your answers in the spaces provided. You must write down all the stages in your working. 1 Write 35% as a fraction. ...................................................... (Total for Question 1 is 1 mark) 2 Work out 1 4 of 28 ...................................................... (Total for Question 2 is 1 mark) 3 Write down two factors of 12 ........................................ ......................................... (Total for Question 3 is 1 mark) 4 Simplify 2 m Ã 3 ...................................................... (Total for Question 4 is 1 mark) 5 Find 169 . ...................................................... (Total for Question 5 is 1 mark)
+Question 7:  3 6 On the grid, draw a quadrilateral with no lines of symmetry and rotational symmetry of order 2 (T otal for Question 6 is 2 marks) 7 The table shows the total number of apples sold and the total number of oranges sold in a shop in each of three weeks. Week 1 Week 2 Week 3 Number of apples 86 75 92 Number of oranges 68 80 76 In total for the three weeks, more apples than oranges were sold. How many more? ...................................................... 
+Question 8:  4 8 Here are the first five terms of a number sequence. 3 8 13 18 23 (a) Write down the next two terms of this sequence. ........................... ........................... (1) Jim says that 50 is a term in this sequence. Jim is wrong. (b) Explain why . .................................................................................................................................................................................................................................................. .................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... (1) 
+Question 8:  9 The diagram shows a solid triangular prism. (a) Write down the number of faces of the prism. ...................................................... (1) (b) Write down the number of edges of the prism. ...................................................... (1) 
+Question 10:  5 10 Here is a list of 8 numbers. 2 2 3 5 6 6 8 9 Kim picks at random one of these numbers. (a) On the probability scale below, mark with a cross ( Ã) the probability that Kim picks a number 7 01 21 (1) (b) On the probability scale below, mark with a cross ( Ã) the probability that Kim picks a number greater than 5 01 21 (1) (c) Find the probability that Kim picks an even number. ...................................................... (2) 
+Question 12:  6 11 Sinita wants to make 35 picture frames. She needs 4 nails for each frame. Sinita has 3 boxes of nails. There are 48 nails in each box. Has Sinita got enough nails to make all 35 frames? Show how you get your answer. (T otal for Question 11 is 3 marks) 12 Write 60 metres as a fraction of 1000 metres. Give your answer in its simplest form. ...................................................... 
+Question 13:  7 13 The accurately drawn map shows the positions of three points, A, B and C, in a field. NN C BA Scale: 1 cm represents 150 metres Parveen walks in a straight line from A to B. She then walks in a straight line from B to C. Susan walks in a straight line from A to C. Parveen walks more metres than Susan. (a) How many more? ...................................................... metres (3) (b) Find by measurement the bearing of A from C. ......................................................Â° (1) 
+Question 14:  8 14 Here is the shoe size of each of 12 boys in a class. 4 5 6 6 6 7 7 8 8 8 8 9 (a) Find the median. ...................................................... (1) (b) Work out the range. ...................................................... (1) For the shoe sizes of each of 12 girls in the class, the median size is 6 the range is 3 (c) Compare the distribution of the shoe sizes of the boys with the distribution of the shoe sizes of the girls. .................................................................................................................................................................................................................................................. .......................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... (2) 
+Question 14:  15 Work out 2751 46 10 197.. .Ã â ...................................................... 
+Question 16:  9 16 On the centimetre grid, draw an isosceles triangle with an area of 12 cm2 
+Question 16:  17	 (a)	Expand 	 	3(4	â	2x ) ...................................................... (1) (b) Solve 3 4y = 12 y = ...................................................... (2) (c) Factorise 4p + 6 ...................................................... (1) 
+Question 18:  10 18 (a) Write 2530 correct to 2 significant figures. ...................................................... (1) (b) Write 0.0874 correct to 1 significant figure. ...................................................... (1) 
+Question 18:  19 There are 400 counters in a box. The counters are red or yellow or green. 3 8 of the counters are red. 82 of the counters are yellow. What percentage of the counters are green? ...................................................... % 
+Question 0:  11 20 In the diagram, PQR is an isosceles triangle with PQ = PR. A B C P Q R D56Â° APR and CQD are parallel lines. BPQ is a straight line. Angle APB = 56Â° Work out the size of angle CQR. Give a reason for each stage of your working. (T otal for Question 20 is 5 marks)
+Question 21:  12 21 Work out the lowest common multiple (LCM) of 24 and 56 ...................................................... 
+Question 21:  22 Here is a right-angled triangle. 8.5 cm x cm4 cm Work out the value of x. x = ...................................................... 
+Question 23:  13 23 T = 4 m2	â	1 1 (a) Work out the value of T when m 	=	â	3 T = ...................................................... (2) (b) Make p the subject of the formula d = 3p + 4 ...................................................... (2) 
+Question 24:  14 24 Rick, Selma and T ony are playing a game with counters. Rick has some counters. Selma has twice as many counters as Rick. Tony has 6 counters less than Selma. In total they have 54 counters. the number of counters Rick has : the number of counters T ony has = 1 : p Work out the value of p. p = ...................................................... 
+Question 25:  15 25 Jo is going to buy 15 rolls of wallpaper. Here is some information about the cost of rolls of wallpaper from each of two shops. Chic Decor 3 rolls for Â£36Style Papers Pack of 5 rolls normal price Â£70 12% off the normal price Jo wants to buy the 15 rolls of wallpaper as cheaply as possible. Should Jo buy the wallpaper from Chic Decor or from Style Papers? You must show how you get your answer . 
+Question 26:  16 26 The table gives information about the lengths, in cm, of some pieces of string. Length (t cm) Frequency 0 < t ï 10 15 10 < t ï 20 20 20 < t ï 30 50 30 < t ï 40 25 40 < t ï 50 5 Amos draws a frequency polygon for the information in the table. Lengths of pieces of string 60 50302010 0 50 40 30 20 10 0 Length (cm)Frequency Write down two mistakes that Amos has made. 1 ............................................................................................................................................................................................................................................... .................................................................................................................................................................................................................................................. 2 ............................................................................................................................................................................................................................................... .................................................................................................................................................................................................................................................. 
+Question 27:  17 27 Jessica runs for 15 minutes at an average speed of 6 miles per hour. She then runs for 40 minutes at an average speed of 9 miles per hour. It takes Amy 45 minute s to run the same total distance that Jessica runs. Work out Amyâs average speed. Give your answer in miles per hour. ...................................................... miles per hour 
+Question 28:  18 28 The diagram shows rectangle STUV. TQU and SRV are straight lines. All measurements are in cm. T Q U S R V2x 4x 3x 5 The area of trapezium QUVR is A cm2 Show that A = 2x2 + 20x 
+Question 29:  19 29 Change 30 metres per second to kilometres per hour. ...................................................... kilometres per hour 
+Question 29:  30 The value of Michelleâ s car has decreased by 15% The car now has a value of Â£13 600 Work out the value of Michelleâs car before the decrease. Â£...................................................... 
+
+
+
+
+Answers: 
+Question 1 answer:
+Part a: 35. Part b: 100. .
+Mark Scheme for question: 35
+for oe
+100.
+Question 2 answer:
+7.
+Mark Scheme for question: cao.
+Question 3 answer:
+Part a: Two from. Part b: 1, 2, 3, 4, 6, 12. .
+Mark Scheme for question: for any two correct factors from 1, 2, 3, 4, 6, 12.
+Question 4 answer:
+6m.
+Mark Scheme for question: for 6m.
+Question 5 answer:
+1.3.
+Mark Scheme for question: cao.
+Question 6 answer:
+Part a: drawing of a. Part b: parallelogram. .
+Mark Scheme for question: for an accurate drawing of a parallelogram that is not a rectangle or a rhombus
+for a quadrilateral drawn with no lines of symmetry
+or for a quadrilateral drawn with rotational symmetry of order 2).
+Question 8 (a)
+(b) answer:
+Part a: 28 33. Part b: Explanation. .
+Mark Scheme for question: cao
+for explanation
+Acceptable examples
+all terms end in 3 or 8
+there are no terms that end in 0
+50 does not end in 3 or 8
+48 and 53 are both in the sequence (could be shown)
+48 is in the sequence and 50 is 2 more
+5n‒2=50 so n is not a whole number.
+if it started at 0 then it would but it starts at 3 so it never will
+or shows sequence continuing up to and beyond 50
+Not acceptable examples
+adding 5 each time will not lead to 50 (insufficient)
+it goes past 50
+the closest number to 50 is 48.
+Question 9 (a)
+(b) answer:
+Part a: 5. Part b: 9. .
+Mark Scheme for question: cao
+cao.
+Question 10 (a)
+(b)
+(c) answer:
+Part a: cross at 0. Part b: 1. Part c: cross at. Part d: 2. Part e: 5. Part f: 8. .
+Mark Scheme for question: cao
+cao
+"5" b
+for where a > “5” or where b < 8
+a 8
+or for identifying all the even numbers, 2, 6 and 8
+or for writing the correct probability using the wrong notation eg 5 : 8
+5
+for oe
+8.
+Question 11 answer:
+Part a: Yes. Part b: (supported). .
+Mark Scheme for question: for 48 × 3 (=144) or 35 × 4 (= 140) or 48 ÷ 4 (=12)
+for 48 × 3 (=144) and 35 × 4 (= 140)
+or “140” ÷ 48 (=2.9…) or “140” ÷ 3 (=46.6…) or “12” × 3 (=36)
+or “144” ÷ 4 (=36) or “144” ÷ 35 (=4.1…)
+for Yes with
+144 and 140 OR 36 OR 2.9… OR 4 (spare) OR 4.1… (each frame)
+OR 46.6… (in each box).
+Question 12 answer:
+Part a: 3. Part b: 50. .
+Mark Scheme for question: 60
+for or equivalent fraction
+1000
+cao.
+Question 13 (a)
+(b) answer:
+Part a: 300. Part b: 288. .
+Mark Scheme for question: for a correct method to measure and convert one line to a distance in metres,
+eg. (AB =) 5 × 150 (= 750 or in the range 720 to 780)
+or (BC =) 4 × 150 (= 600 or in the range 570 to 630)
+or (AC =) 7 × 150 (= 1050 or in the range 1020 to 1080)
+or for 5 + 4 ‒ 7 (=2 or in the range 1.4 to 2.6)
+for a complete method, eg. “750” + “600” – “1050” or “2” × 150
+for answer in the range 210 to 390
+for answer in the range 286 to 290.
+Question 14 (a)
+(b)
+(c) answer:
+Part a: 7. Part b: 5. .
+Mark Scheme for question: cao
+cao
+ft for correct comparison of both medians and ranges, eg. median of boys shoe sizes
+is greater than the median of the girls shoe sizes and the range of the boys shoe sizes
+is greater than the range of the girls shoe sizes.
+ft for a correct comparison of either medians or ranges).
+Question 15 answer:
+5.
+Mark Scheme for question: for 40.15 or 8.03 seen in working
+cao.
+Question 16 answer:
+Triangle drawn.
+Mark Scheme for question: for an isosceles triangle drawn with the product of the base and perpendicular height
+being 24, eg. 6 × 4 or 4 × 6 or 8 × 3 or 3 × 8
+for any isosceles triangle drawn or for any triangle with 24 as the product of the base
+and the perpendicular height).
+Question 17 (a)
+(b)
+(c) answer:
+Part a: 12 – 6x. Part b: 16. Part c: 2(2p + 3). .
+Mark Scheme for question: for 12 – 6x (accept – 6x +12)
+y 12
+for a correct first step, eg. 3y = 12 × 4 (= 48) or =
+4 3
+cao
+cao.
+Question 18 (a)
+(b) answer:
+Part a: 2500. Part b: 0.09. .
+Mark Scheme for question: cao
+cao.
+Question 19 answer:
+42.
+Mark Scheme for question: for process to find number of red counters, eg. 400 ÷ 8 × 3 (= 150)
+or process to convert both to percentages: 3/8 as 37.5 and 82/400 as 20.5
+or process to convert both to fractions with common denominator:
+eg 3/8 as 75/200 and 82/400 as 41/200 oe
+for process to find number of green counters,
+eg 400 ‒ “150” ‒ 82 (=168)
+or process to find the percentage of red and yellow counters
+eg “37.5” + “20.5” (=58) or (“150” + 82) ÷ 400 × 100 (=58)
+for complete process to find the percentage of counters that are green,
+eg “168” ÷ 400 × 100 or 100 ‒ (37.5 + 20.5) or 100 ‒ “58”
+cao.
+Question 20 answer:
+Part a: 118. Part b: with reasons. .
+Mark Scheme for question: for angle QPR = 56 or CQP = 56
+for angle PQR = (180 – 56) ÷ 2 (= 62)
+(dep on a previous M1) for giving a reason relating to parallel lines:
+angle CQR = 180 – “62” (Allied angles / Co-interior angles add up to 180)
+or angle CQP = 56 (corresponding angles are equal)
+or use “angle QPR” (alternate angles are equal)
+(dep on a previous M1) for at least one reason given from:
+vertically opposite angles are equal OR vertically opposite angles are equal
+or base angles of an isosceles triangle are equal
+or Angles in a triangle add up to 180
+for 118.
+Question 21 answer:
+168.
+Mark Scheme for question: for a list of at least 3 multiples of each number
+or for factors 3,2,2,2 oe and 7,2,2,2 oe (could be shown in a factor tree or Venn
+diagram or table)
+cao.
+Question 22 answer:
+7.5.
+Mark Scheme for question: for correct use of Pythagoras, eg.8.52 – 42 (= 56.25) or 42 + x2 = 8.52
+1 15
+for 7.5 or 7 or
+2 2.
+Question 23 (a)
+(b) answer:
+Part a: 25. Part b: d −4. Part c: p= oe. Part d: 3. .
+Mark Scheme for question: for (T =) 4 × (– 3)2 – 11 or 4 × (– 3)2 = 36
+cao
+d 4
+for a correct first step, eg. d – 4 = 3p or = p+
+3 3
+d −4
+or for as answer
+3
+d −4
+for p= oe
+3.
+Question 24 answer:
+1.5.
+Mark Scheme for question: for process to develop 3 algebraic expressions, eg. (R =) n, (S =) 2n, (T =) 2n – 6, oe,
+at least two must be correct.
+or for selecting 3 values satisfying the given criteria,
+eg. (R =) 10, (S =) 20, (T =) 14
+for process to sum 3 algebraic expressions and equating to 54,
+eg. n + “2n” + “2n – 6” = 54
+or for finding the correct sum of their values
+eg. “10” + “20” + “14” = 44
+for start of process to solve the correct linear equation,
+eg. 5n = 54 + 6 (n = 12)
+or for 12, 24, 18
+for “12” : 2 × “12” – 6 oe eg 12 : 18 oe or 18 : 12 linked to T, R
+3 1
+for 1.5 or or 1
+2 2.
+Question 25 answer:
+Part a: Chic Decor. Part b: (supported). .
+Mark Scheme for question: 15
+for process to find cost of 15 rolls from Chic Decor, eg 36 (= 180)
+3
+or
+for process to find cost of 15 rolls from Style Papers at normal price,
+15
+eg 70 (= 210)
+5
+or
+for process to find cost of 1 roll from Chic Decor, eg 36 ÷ 3 (= 12)
+or
+for process to find cost of 1 roll from Style Papers, eg 70 ÷ 5 (= 14)
+or
+36
+for process to find the cost of 5 rolls from Chic Decor, eg 5 (= 60)
+3
+for any first step in using the discount at Style Papers,
+eg 0.12 × “210” (= 25.2(0)) or 0.12 × “14” (= 1.68) or 0.12 × 70 (= 8.4(0))
+or 1 – 0.12 (= 0.88)
+for full process to find cost from Style Papers,
+eg. “210” – “25.2” oe (=184.8(0)) or “0.88” × “210”
+or for “14” – “1.68” oe (= 12.32) or “0.88” × “14”
+or for 70 – “8.4(0)” oe (= 61.6(0)) or “0.88” × 70
+for Chic Decor with fully correct figures
+eg 180 and 184.8(0)
+or 12 and 12.32
+or 60 and 61.6(0).
+Question 26 answer:
+Part a: 40 missing from. Part b: frequency scale. Part c: Incorrect. Part d: point (50, 5). .
+Mark Scheme for question: Two different statements
+Acceptable
+eg (50, 5) / the last point is incorrect
+the last point should be at (45,5)
+the last point plotted was placed incorrectly
+for his last point he has plotted by the end of the data and for the rest he has plotted by the
+middle
+he did not use the midpoint, he used 50 instead of 45
+40 missing (from vertical axis)
+vertical scale is not linear
+the frequency doesn’t increase in the same intervals
+the vertical axis is not right
+Not acceptable
+eg the last point should be at (40, 5)
+bottom of the polygon should be connected
+he didn’t start the graph at the origin
+he did not draw a polygon
+he has plotted the first 4 points at midpoint
+One acceptable statement).
+Question 27 answer:
+10.
+Mark Scheme for question: for a process to use distance = speed × time for either of the parts of Jessica’s
+journey,
+15 40
+eg. 6 (= 1.5) or 9 (= 6) or 6 × 15 (= 90) or 9 × 40 (= 360)
+60 60
+for a process to add the 2 distances for Jessica,
+15 40
+eg 6 + 9 (= 7.5) or 6 × 15 + 9 × 40 (= 450)
+60 60
+for complete process to find Amy’s average speed,
+eg. “7.5” ÷ “0.75” oe or “450” ÷ 45
+cao.
+Question 28 answer:
+Part a: Complete chain. Part b: of reasoning. .
+Mark Scheme for question: for (area of trapezium TQRS =) 0.5 × 4x × (2x + 3x)
+or for (area of rectangle TUVS =) 4x × (3x + 5) (= 12x2 + 20x)
+for (area of trapezium QUV R =) 4x(3x + 5) ‒ 0.5 × 4x × (2x + 3x)
+for correct algebraic processing and simplification to the given form
+Alternative 1
+for (QU =) 3x + 5 – 2x (= x + 5)
+for (area of trapezium QUVR =) 0.5 × 4x × ((“x + 5”) + 5) or 0.5 × 4x × (x + 10)
+for correct algebraic processing and simplification to the given form
+Alternative 2
+for (area of triangle =) 0.5 × (3x – 2x) × 4x or for (area of rectangle =) 4x × 5
+for (area of trapezium QUVR =) “0.5 × (3x – 2x) × 4x” + “4x × 5”
+for correct algebraic processing and simplification to the given form.
+Question 29 answer:
+108.
+Mark Scheme for question: for 30 × 60 × 60 (108000 metres per hour)
+or 30 ÷ 1000 (= 0.03 kilometres per second)
+or 60 × 60 ÷ 1000 (=3.6 scale factor)
+cao.
+Question 30 answer:
+16 000.
+Mark Scheme for question: for 13600 ÷ 0.85 (= 16000) oe
+cao.
