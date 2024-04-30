@@ -28,42 +28,29 @@ export default class Question extends React.Component {
                     <p className='ml-[5px]'>
                         <b>Q{this.props.questionNumber}.</b>
                         &emsp;
-                        {this.state.question.map((currentQuestion, index) => {
-                            if (currentQuestion.startsWith('$') && currentQuestion.endsWith('$')) {
-                                try {
-                                    // Attempt to render LaTeX content using Latex component
-                                    return (
-                                        <Latex key={index} strict>
-                                            {currentQuestion}
-                                        </Latex>
-                                    );
-                                } catch (error) {
-                                    console.error('Error rendering LaTeX:', error);
-                                    // If an error occurs during rendering, fall back to plain text
-                                    return (
-                                        <span key={index}>
-                                            {currentQuestion}
-                                        </span>
-                                    );
-                                }
-                            } else {
-                                // Render plain text or non-LaTeX content
-                                return (
-                                    <span key={index}>
+                        {this.state.question.map((currentQuestion, questionNumber)=>
+                            <span>
+                                &emsp;
+                                {currentQuestion[0] === '$' && currentQuestion[currentQuestion.length-1] === '$' ?
+                                    <Latex>
+                                        {currentQuestion}
+                                    </Latex>
+                                    :
+                                    <span>
                                         {currentQuestion}
                                     </span>
-                                );
-                            }
-                        })}
+                                }
+                            </span>
+                        )}
                         <br/>
                         Answer:<br/>
-                        <span>
+                        <Latex>
                             {this.props.answer[0]}
-                        </span>
+                        </Latex>
                         <br/>Steps:<br/>
-                        <span>
+                        <Latex>
                             {this.props.answer[1]}
-                        </span>
+                        </Latex>
                     </p>
                 </div>
             </div>
