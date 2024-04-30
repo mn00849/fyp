@@ -1,12 +1,11 @@
 import React from 'react';
 
-//var Latex = require('react-latex');
-import { MathJaxProvider, MathJaxFormula } from 'mathjax3-react';
+import { InlineMath, BlockMath } from 'react-katex';
 
 export default class Question extends React.Component {
     constructor(props) {
         super(props);
-        this.state = { height: 275, question: [], answer: '', steps: '' };
+        this.state = { height: 275, question: [], answer: '', steps: [] };
     }
 
     componentDidMount() {
@@ -20,6 +19,15 @@ export default class Question extends React.Component {
         if (this.props.answer !== undefined) {
             this.setState({ answer: this.props.answer[0] });
         }
+
+        this.setState({ steps: this.props.answer[1]});
+        try {
+            let currentSteps = this.props.answer[1];
+            currentSteps = currentSteps.split(/(\$[^$]*\$)/);
+            this.setState({ steps: currentSteps });
+        } catch {
+            console.log('error with steps');
+        }
     }
 
     render() {
@@ -29,36 +37,34 @@ export default class Question extends React.Component {
                     <p className='ml-[5px]'>
                         <b>Q{this.props.questionNumber}.</b>
                         &emsp;
-                        <MathJaxProvider options={{
-                                tex: {
-                                inlineMath: [
-                                    ['$', '$'],
-                                ],
-                                },
-                            }}>
-                            <MathJaxFormula formula={this.state.question} />
-                        </MathJaxProvider>
+                        {this.state.question.map((currentQuestion, questionNumber)=>
+                            <span>
+                                &emsp;
+                                {currentQuestion[0] === '$' && currentQuestion[currentQuestion.length-1] === '$' ?
+                                    <InlineMath math={currentQuestion.replaceAll("$","")} className='text-black' />
+                                    :
+                                    <span>
+                                        {currentQuestion}
+                                    </span>
+                                }
+                            </span>
+                        )}
                         <br/>
                         Answer:<br/>
-                        <MathJaxProvider options={{
-                                tex: {
-                                inlineMath: [
-                                    ['$', '$'],
-                                ],
-                                },
-                            }}>
-                            <MathJaxFormula formula={this.props.answer[0]} />
-                        </MathJaxProvider>
+                        <InlineMath math={this.props.answer[0].replaceAll("$","")} className='text-black' />
                         <br/>Steps:<br/>
-                        <MathJaxProvider options={{
-                                tex: {
-                                inlineMath: [
-                                    ['$', '$'],
-                                ],
-                                },
-                            }}>
-                            <MathJaxFormula formula={this.props.answer[1]} />
-                        </MathJaxProvider>
+                        {this.state.steps.map((currentStep, stepNumber)=>
+                            <span>
+                                &emsp;
+                                {currentStep[0] === '$' && currentStep[currentStep.length-1] === '$' ?
+                                    <InlineMath math={currentStep.replaceAll("$","")} className='text-black' />
+                                    :
+                                    <span>
+                                        {currentStep}
+                                    </span>
+                                }
+                            </span>
+                        )}
                     </p>
                 </div>
             </div>

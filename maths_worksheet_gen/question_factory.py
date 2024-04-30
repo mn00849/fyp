@@ -36,9 +36,9 @@ def generateQuestion(topic='Factorising', problemSolving=False, tier='foundation
     prompt = ''
 
     if (problemSolving == True):
-        prompt = f"Generate a {tier} Tier GCSE maths question in a real life context on the topic on {topic} with an answer. Double check the answer but don't show you have double checked the answer. Surround any algebraic expressions or equations with a dollar sign on each side. Give the question, answer and steps to get the answer in a JSON. The answer should be a single string."
+        prompt = f"Generate a {tier} Tier GCSE maths question in a real life context on the topic on {topic} with an answer. Double check the answer but don't show you have double checked the answer. Surround any algebraic expressions or equations with a dollar sign on each side. Give the question, answer and steps to get the answer in a JSON. The answer should be a single string. The steps should be a single string."
     else:
-        prompt = f"Generate a {tier} Tier GCSE maths question on the topic on {topic} with an answer. Double check the answer but don't show you have double checked the answer. Surround any algebraic expressions or equations with a dollar sign on each side. Give the question, answer and steps to get the answer in a JSON. The answer should be a single string."
+        prompt = f"Generate a {tier} Tier GCSE maths question on the topic on {topic} with an answer. Double check the answer but don't show you have double checked the answer. Surround any algebraic expressions or equations with a dollar sign on each side. Give the question, answer and steps to get the answer in a JSON. The answer should be a single string. The steps should be a single string."
 
     completion = client.chat.completions.create(
         model="gpt-3.5-turbo",

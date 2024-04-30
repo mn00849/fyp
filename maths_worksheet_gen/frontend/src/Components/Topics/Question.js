@@ -1,7 +1,6 @@
 import React from 'react';
 
-import Latex from 'react-latex-next';
-import { MathJaxProvider, MathJaxFormula } from 'mathjax3-react';
+import { InlineMath, BlockMath } from 'react-katex';
 
 export default class Question extends React.Component {
     constructor(props) {
@@ -14,8 +13,7 @@ export default class Question extends React.Component {
 
         // splitting the question up based on if there is LaTeX inside
         let currentQuestion = this.props.questionParagraph;
-        //currentQuestion = currentQuestion.split(/(\$[^$]*\$)/);
-        
+        currentQuestion = currentQuestion.split(/(\$[^$]*\$)/);
         this.setState({ question: currentQuestion });
     }
 
@@ -26,29 +24,18 @@ export default class Question extends React.Component {
                     <p className='ml-[5px]'>
                         <b>Q{this.props.questionNumber}.</b>
                         &emsp;
-                        <MathJaxProvider options={{
-                                tex: {
-                                inlineMath: [
-                                    ['$', '$'],
-                                ],
-                                },
-                            }}>
-                            <MathJaxFormula formula={this.state.question} />
-                        </MathJaxProvider>
-                        {/*this.state.question.map((currentQuestion, questionNumber)=>
+                        {this.state.question.map((currentQuestion, questionNumber)=>
                             <span>
                                 &emsp;
-                                {this.state.beenSplit ?
-                                    <MathTex>
-                                        {currentQuestion}
-                                    </MathTex>
+                                {currentQuestion[0] === '$' && currentQuestion[currentQuestion.length-1] === '$' ?
+                                    <InlineMath math={currentQuestion.replaceAll("$","")} className='text-black' />
                                     :
                                     <span>
                                         {currentQuestion}
                                     </span>
                                 }
                             </span>
-                        )*/}
+                        )}
                     </p>
                 </div>
             </div>
