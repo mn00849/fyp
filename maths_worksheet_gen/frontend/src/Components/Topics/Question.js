@@ -1,11 +1,12 @@
 import React from 'react';
 
 import Latex from 'react-latex-next';
+import { MathJaxProvider, MathJaxFormula } from 'mathjax3-react';
 
 export default class Question extends React.Component {
     constructor(props) {
         super(props);
-        this.state = { height: 275, question: [] };
+        this.state = { height: 275, question: [], beenSplit: false };
     }
 
     componentDidMount() {
@@ -13,7 +14,8 @@ export default class Question extends React.Component {
 
         // splitting the question up based on if there is LaTeX inside
         let currentQuestion = this.props.questionParagraph;
-        currentQuestion = currentQuestion.split(/(\$[^$]*\$)/);
+        //currentQuestion = currentQuestion.split(/(\$[^$]*\$)/);
+        
         this.setState({ question: currentQuestion });
     }
 
@@ -24,20 +26,29 @@ export default class Question extends React.Component {
                     <p className='ml-[5px]'>
                         <b>Q{this.props.questionNumber}.</b>
                         &emsp;
-                        {this.state.question.map((currentQuestion, questionNumber)=>
+                        <MathJaxProvider options={{
+                                tex: {
+                                inlineMath: [
+                                    ['$', '$'],
+                                ],
+                                },
+                            }}>
+                            <MathJaxFormula formula={this.state.question} />
+                        </MathJaxProvider>
+                        {/*this.state.question.map((currentQuestion, questionNumber)=>
                             <span>
                                 &emsp;
-                                {currentQuestion[0] === '$' && currentQuestion[currentQuestion.length-1] === '$' ?
-                                    <Latex>
+                                {this.state.beenSplit ?
+                                    <MathTex>
                                         {currentQuestion}
-                                    </Latex>
+                                    </MathTex>
                                     :
                                     <span>
                                         {currentQuestion}
                                     </span>
                                 }
                             </span>
-                        )}
+                        )*/}
                     </p>
                 </div>
             </div>

@@ -1,6 +1,7 @@
 import React from 'react';
 
-var Latex = require('react-latex');
+//var Latex = require('react-latex');
+import { MathJaxProvider, MathJaxFormula } from 'mathjax3-react';
 
 export default class Question extends React.Component {
     constructor(props) {
@@ -28,29 +29,36 @@ export default class Question extends React.Component {
                     <p className='ml-[5px]'>
                         <b>Q{this.props.questionNumber}.</b>
                         &emsp;
-                        {this.state.question.map((currentQuestion, questionNumber)=>
-                            <span>
-                                &emsp;
-                                {currentQuestion[0] === '$' && currentQuestion[currentQuestion.length-1] === '$' ?
-                                    <Latex>
-                                        {currentQuestion}
-                                    </Latex>
-                                    :
-                                    <span>
-                                        {currentQuestion}
-                                    </span>
-                                }
-                            </span>
-                        )}
+                        <MathJaxProvider options={{
+                                tex: {
+                                inlineMath: [
+                                    ['$', '$'],
+                                ],
+                                },
+                            }}>
+                            <MathJaxFormula formula={this.state.question} />
+                        </MathJaxProvider>
                         <br/>
                         Answer:<br/>
-                        <Latex>
-                            {this.props.answer[0]}
-                        </Latex>
+                        <MathJaxProvider options={{
+                                tex: {
+                                inlineMath: [
+                                    ['$', '$'],
+                                ],
+                                },
+                            }}>
+                            <MathJaxFormula formula={this.props.answer[0]} />
+                        </MathJaxProvider>
                         <br/>Steps:<br/>
-                        <Latex>
-                            {this.props.answer[1]}
-                        </Latex>
+                        <MathJaxProvider options={{
+                                tex: {
+                                inlineMath: [
+                                    ['$', '$'],
+                                ],
+                                },
+                            }}>
+                            <MathJaxFormula formula={this.props.answer[1]} />
+                        </MathJaxProvider>
                     </p>
                 </div>
             </div>
